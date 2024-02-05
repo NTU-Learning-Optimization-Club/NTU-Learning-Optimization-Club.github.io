@@ -1,0 +1,41 @@
+baseURL: https://ntu-learning-optimization-club.github.io/
+languageCode: zh-hant
+defaultContentLanguage: zh-hant
+title: NTU Learning Optimization Club
+theme: PaperMod
+languages:
+  zh-hant:
+    languageName: "Traditional Chinese"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 10
+params:
+  homeInfoParams:
+    Title: 歡迎
+    Content: 我們是台大學習優化研究社
+  socialIcons:
+    - name: "facebook"
+      url: "/"
+    - name: "instagram"
+      url: "/"
+  contact:
+    email: ntulocclub@gmail.com
+
+output:
+  home:
+    - HTML
+    - RSS
+    - JSON
