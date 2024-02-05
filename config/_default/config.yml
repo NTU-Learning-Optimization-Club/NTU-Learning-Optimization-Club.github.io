@@ -1,7 +1,7 @@
 baseURL: https://ntu-learning-optimization-club.github.io/
 languageCode: zh-hant
 defaultContentLanguage: zh-hant
-title: NTU Learning Optimization Club
+title: NTULOC
 theme: PaperMod
 languages:
   zh-hant:
@@ -13,19 +13,27 @@ languages:
       series: series
     menu:
       main:
-        - name: Archive
+        - name: 文章
           url: archives
           weight: 5
-        - name: Search
+        - name: 搜尋
           url: search/
-          weight: 10
-        - name: Tags
+          weight: 20
+        - name: 標籤
           url: tags/
           weight: 10
+        - name: 關於我們
+          url: aboutus/
+          weight: 25
+        - name: 活動
+          url: activities/
+          weight: 15
 params:
+  defaultTheme: dark
+  disableThemeToggle: true
   homeInfoParams:
-    Title: 歡迎
-    Content: 我們是台大學習優化研究社
+    Title: Unlock Your Mind, Learn and Shine.
+    Content: 台大學習優化研究社是一個致力於深入研究學習科學、推動學習方法創新的組織。在這個快速變化的學習環境中，我們不僅專注於探索最有效的學習方法，更以互相幫助、鼓勵創新為原則，致力於提供各種資源，協助所有渴望在學習道路上不斷進步的個體。
   socialIcons:
     - name: "facebook"
       url: "/"
