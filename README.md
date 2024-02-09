@@ -2,13 +2,14 @@
 
 ## 使用指南
 
-1. 打開終端機並執行 `git clone https://github.com/NTU-Learning-Optimization-Club/NTU-Learning-Optimization-Club.github.io.git`
+1. 第一次使用前，打開終端機並執行 `git clone https://github.com/NTU-Learning-Optimization-Club/NTU-Learning-Optimization-Club.github.io.git`
 2. 實驗結果相關文章請在 `content/posts/experiment` 中新增 md 檔撰寫，普通文章請在 `content/posts/article` 新增。
 3. 新增 md 檔請在終端機執行 `hugo new content posts/<experiment or article>/<文章標題>`
 4. 活動資訊請寫在 `content/activities.md` 中
 5. 撰寫完文章後在終端機執行`git add .`, `git commit -m "<commit message>"`, 請在`<commit message>` 中簡短敘述修改內容，ex: add a new post.
 6. 最後執行 `git push` 並確認網站成功更新。
    （你可以執行 `hugo` 加 `hugo server` 在本地確認網站更新後的長相，沒有問題再執行 git commit 與 push 將網站更新上網）
+7. 開始修改、撰寫新文章之前可以先執行 `git pull` 以確保本地版本為最新版本再開始工作
 
 ## Markdown 語法
 
