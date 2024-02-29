@@ -30,7 +30,7 @@ languages:
           weight: 15
 params:
   defaultTheme: dark
-  disableThemeToggle: true
+  disableThemeToggle: false
   env: production
   #ShowReadingTime: true
   ShowBreadCrumbs: true
