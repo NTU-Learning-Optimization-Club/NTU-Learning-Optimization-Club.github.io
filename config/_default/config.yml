@@ -50,7 +50,10 @@ params:
     Title: NTULOC - Unlock Your Mind, Learn and Shine.
     Content: 台大學習優化研究社致力於結合學術與實踐，深入研究學習方法，並推廣高效、有意義的學習方式，旨在提升在學學生的學習成效。透過核心能力的提升和知識的推廣，我們追求將先進的學習理念引進學術和實際生活中，為學生提供更豐富、有效的學習體驗。
   socialIcons:
-
+    - name: "instagram"
+      url: "https://www.instagram.com/_ntuloc_?igsh=MzRlODBiNWFlZA%3D%3D"
+    - name: "facebook"
+      url: "https://www.facebook.com/profile.php?id=61556688069720" 
   contact:
     email: ntulocclub@gmail.com
 
