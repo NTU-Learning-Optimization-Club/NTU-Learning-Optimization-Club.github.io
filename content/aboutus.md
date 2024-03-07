@@ -81,3 +81,13 @@ draft: false
 <img src="/images/李承彥.png" alt="image" width="300" height="auto">
 
 有時候有點白癡
+
+---
+
+### 資訊部長 - 許智皓
+
+<img src="/images/許智皓.JPG" alt="image" width="300" height="auto">
+
+想和大家一起努力變強
+
+---
