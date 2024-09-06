@@ -1,27 +1,194 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>NTULOC</title><link>https://ntu-learning-optimization-club.github.io/</link><description>Recent content on NTULOC</description><generator>Hugo -- gohugo.io</generator><language>zh-hant</language><lastBuildDate>Fri, 01 Mar 2024 00:23:25 +0800</lastBuildDate><atom:link href="https://ntu-learning-optimization-club.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>🏛️社團簡史🏛️</title><link>https://ntu-learning-optimization-club.github.io/posts/others/history/</link><pubDate>Fri, 01 Mar 2024 00:23:25 +0800</pubDate><guid>https://ntu-learning-optimization-club.github.io/posts/others/history/</guid><description>2023.08 聚集有志一同的夥伴，創社開始 2023.09 訂定社團運作模式，完成創社流程 2023.10 幹部們彼此熟悉，凝聚向心力 2023.11 彙整成員的學習經驗，研發部社課開跑 2023.12 創社申請通過，訂定寒假三大目標 2024.01 社團專案齊發，成員全面啟動 2024.02 研發部蒐集資料結案，下學期社務安排 👨‍🌾這段時間，我們所做過的那些事👩‍🔧 從創社以來，我們進行了九項專案、開了四次課程、經歷了超過五十場會議、探索了學習科學的十四種不同的面向，也執行了兩次的學習方法實驗。
-以下介紹我們進行過的兩個有趣專案：
-📌蒐集資料與討論會 每位社團成員會被分配到一組，每組研究一個特定主題，例如筆記方法、專注力等，每組的成員又分別研究該主題的某些特定內容。每隔一段時間會進行一次討論會，讓組員間獲得資訊的交流，彼此討論自己研究的內容的異同，最後有一次分享會，讓各組分享自己的所學。
-📌學習方法實驗 我們的實驗都是基於學習科學理論進行的，由專案小組決定要進行的實驗主題，並研究其中的理論基礎，專案小組再召集社團成員參加實驗，透過實驗的數據分析，驗證實驗背後的理論。
-除了這兩個專案外，我們也有許多與社團營運相關的專案，如社課規劃、工作坊籌備、杜鵑花節社博籌備等，如果想知道更多我們社團有趣的活動，請追蹤我們的 IG 帳號！我們在 3/9 社團博覽 49 號攤位，不見不散！</description></item><item><title>學習科學簡介</title><link>https://ntu-learning-optimization-club.github.io/posts/article/intro_to_learning_science/</link><pubDate>Sun, 04 Feb 2024 18:25:25 +0800</pubDate><guid>https://ntu-learning-optimization-club.github.io/posts/article/intro_to_learning_science/</guid><description>🤔學習科學是什麼？🤔 學習科學 Learning Sciences 是一門跨領域的科學，不僅涵蓋了學生習得知識的過程，還包括他們如何應用這些知識以及創造新理論或產品的能力。
-👨‍🏫教育與學習科學的關係為何？👩‍🏫 教育的目標在於運用學習科學的理論，培養學習者具有應用知識、創造新理論的綜合能力，使學生不僅僅是知識的儲存者，更能夠靈活運用知識，學以致用。 以下介紹學習科學的二個面向：
-1️⃣🎮電玩與學習🎮 電玩在學習中可以扮演多種角色。首先，它能夠直接提供學習內容。例如歷史遊戲可以讓學生實際體驗過去歷史事件，彷彿置身於歷史事件中。另外，學生透過玩電玩也可以學到學科本身和學科之外的能力，如閱讀能力等。電玩也可以作為架構，並將學習內容作為任務，如此可賦予學習任務意義，提升學生的學習意願。
-2️⃣PBL PBL包含專案導向學習與問題導向學習，強調學生在解決真實世界問題時的主動參與。不論是哪種PBL，都具有以下共通點： 👨‍⚕️主動參與：PBL鼓勵學生主動參與，而非被動地接收知識。學生在專案中扮演積極角色，提出問題、探索解決方案。 👨‍⚕️情境式學習與應用：透過情境式學習，學生了解知識的實際應用，並在解決問題中鞏固所學。 👨‍⚕️同儕互動：PBL強調團隊合作、溝通技巧和解決衝突的能力。同儕間的互動促進學習，也可建構彼此的共同知識而使討論變得更加容易。 👨‍⚕️反覆建構知識架構：就如同人類可經由四處探索理解地理全貌，學生透過不斷反覆建構、應用和詮釋知識，可深入理解知識背景與其應用情境。 👨‍⚕️跨領域學習：PBL將不同學科知識整合，讓學生跨足多個領域，培養綜合能力。 👨‍⚕️做與學的整合：PBL不只幫助學生在學習過程中同時學會操作，更幫助學生在操作過程中發現新的知識點。
-2️⃣-1專案導向學習 PBL 專案導向學習（Project-Based Learning，簡稱PBL） 是一種以專案為核心的教學方法，強調學生在解決真實世界問題時的主動參與。以下是PBL的六個特色： 👩‍⚕️驅動問題（Driving Question）：透過情境式學習，學生理解知識可被應用的情境並被引導思考並提出問題，激發他們的好奇心和求知欲。 👩‍⚕️深入理解知識：學生不僅要掌握知識，還需反覆建構、應用和詮釋，以深入理解。 👩‍⚕️溝通與合作：PBL強調團隊合作、溝通技巧和解決衝突的能力。 👩‍⚕️超越當前能力：學生在專案中常需應用課堂外的知識，培養成長心態。 👩‍⚕️學以致用：PBL鼓勵學生將所學應用於實際情境，解決現實問題。 👩‍⚕️實際產出：專案的結果不僅是知識的累積，還包括實際成果，達成做、學合一與知識的整合。 透過PBL，學生能夠在有趣且具挑戰性的專案中，培養批判思考、解決問題和創新的能力。
-2️⃣-2問題導向學習 PBL 問題導向學習 (Problem-Based Learning，簡稱PBL) 是一種以問題為核心的教學方法，同樣強調學生解決真實案例時的主動參與。以下是 PBL 的幾個優點： 🧑‍⚕️自己決定學習方向：學生在面對問題時理解到自身知識的不足，主動訂定學習方向，提升學習動機。 🧑‍⚕️學以致用：學生在PBL過程中會需要知識的應用，未來在面對新的問題時也能活用所學。 🧑‍⚕️同儕互動：透過同儕之間的討論，學生必須將所學的知識系統化整理後輸出，在這個系統化的過程中，之是能夠再次被建構，增進學習效果。 🧑‍⚕️知識的形成：由於 PBL 大量使用白板，學生可以先將各種知識寫在白板上，在討論過程中不斷整理現有知識，最後形成有系統的知識後內化，讓學習更有組織。</description></item><item><title/><link>https://ntu-learning-optimization-club.github.io/activities/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ntu-learning-optimization-club.github.io/activities/</guid><description>敬請期待！</description></item><item><title>關於我們</title><link>https://ntu-learning-optimization-club.github.io/aboutus/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ntu-learning-optimization-club.github.io/aboutus/</guid><description>NTULOC - Unlock Your Mind, Learn and Shine. 🙋‍♂️我們是誰？🙋‍♀️ 我們是一群對於學習與教育有熱忱的學生，希望透過研究學習理論、以實驗驗證，將扎實的理論轉化為靈活的學習方法，在社團內部推廣，並提升社員的實力。
-💁‍♂️我們是一個服務性社團！💁‍♀️ 在我們學習精進之餘，也將這些新的學習方法推廣給高中生，讓他們的學習不再只是死記硬背。我們會辦理工作坊、校園講座、學生輔導等活動，擴展高中生對於學習的視野，讓他們看見填鴨教育外的另一個世界。
-🚩創社初衷🚩 在我們成長的過程中，多少會遇到一些課業上的不順遂。然而，我們除了多看幾次課本、多刷題目，或死記硬背之外，經常無法找到合適的解決方法來度過這些難關。 為什麼會發生這樣的狀況呢？ 首先，學校教授的是知識，而不是知識吸收的方法，然而這些方法的發現經常是出自於偶然，而不是我們與生俱來的。運氣好的，發現了合適的方法，便飛黃騰達；運氣不好的，便會開始懷疑自己，是不是自己不夠聰明或是努力不足？ 許多人忽視的，卻是那條路徑的選擇。 因此，我們希望可以透過一群人的合作，一起找出更好的，甚至是通用於所有人的學習方法，並推廣給正在升學壓力中的高中生。
-👉你適合加入我們嗎？👈 我們致力於啟發每一個人的潛能，透過創新的學習方式，幫助實現所有的夢想。 你，如果跟我們一樣，對教育有熱忱，想和我們一起提升實力，一起幫助其他學生，歡迎加入台大學習優化研究社，一起創造改變！
-社團成員 社長 - 吳柏均 如果人生是一個 8-bit 加法器，
-花100,000單位的努力在課業
-100,000單位在社團
-100,000單位在跑活動
-100,000單位在追逐夢想
-成果會是多少？
-0
-因為會Overflow
-研發部長 - 吳宥瑄 大家好！我是電機二的吳宥瑄，這學期是 NTULOC 的研發部長
-歡迎大家多多參加蒐集資料、實驗數據採集專案！！
-研發部長 - 許庭愷 狄拉克的粉絲ㄧㄝ˙，喜歡看書、看電影哈哈~
-研發部長 - 詹維宏 我是詹維宏，我什麼都不會
-行銷部長 - 李承彥 有時候有點白癡
-資訊部長 - 許智皓 想和大家一起努力變強</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>NTULOC</title><link>https://ntu-learning-optimization-club.github.io/</link><description>Recent content on NTULOC</description><generator>Hugo -- gohugo.io</generator><language>zh-hant</language><lastBuildDate>Sun, 11 Aug 2024 17:35:25 +0800</lastBuildDate><atom:link href="https://ntu-learning-optimization-club.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>學習科學簡介</title><link>https://ntu-learning-optimization-club.github.io/posts/intro_to_learning_science/</link><pubDate>Mon, 05 Feb 2024 17:35:25 +0800</pubDate><guid>https://ntu-learning-optimization-club.github.io/posts/intro_to_learning_science/</guid><description>&lt;h2 id="學習科學是什麼">🤔學習科學是什麼？🤔&lt;/h2>
+&lt;p>學習科學 Learning Sciences 是一門跨領域的科學，不僅涵蓋了學生習得知識的過程，還包括他們如何應用這些知識以及創造新理論或產品的能力。&lt;/p>
+&lt;h2 id="教育與學習科學的關係為何">👨‍🏫教育與學習科學的關係為何？👩‍🏫&lt;/h2>
+&lt;p>教育的目標在於運用學習科學的理論，培養學習者具有應用知識、創造新理論的綜合能力，使學生不僅僅是知識的儲存者，更能夠靈活運用知識，學以致用。
+以下介紹學習科學的二個面向：&lt;/p>
+&lt;h2 id="1電玩與學習">1️⃣🎮電玩與學習🎮&lt;/h2>
+&lt;p>電玩在學習中可以扮演多種角色。首先，它能夠直接提供學習內容。例如歷史遊戲可以讓學生實際體驗過去歷史事件，彷彿置身於歷史事件中。另外，學生透過玩電玩也可以學到學科本身和學科之外的能力，如閱讀能力等。電玩也可以作為架構，並將學習內容作為任務，如此可賦予學習任務意義，提升學生的學習意願。&lt;/p>
+&lt;h2 id="2pbl">2️⃣PBL&lt;/h2>
+&lt;p>PBL包含專案導向學習與問題導向學習，強調學生在解決真實世界問題時的主動參與。不論是哪種PBL，都具有以下共通點：
+👨‍⚕️主動參與：PBL鼓勵學生主動參與，而非被動地接收知識。學生在專案中扮演積極角色，提出問題、探索解決方案。
+👨‍⚕️情境式學習與應用：透過情境式學習，學生了解知識的實際應用，並在解決問題中鞏固所學。
+👨‍⚕️同儕互動：PBL強調團隊合作、溝通技巧和解決衝突的能力。同儕間的互動促進學習，也可建構彼此的共同知識而使討論變得更加容易。
+👨‍⚕️反覆建構知識架構：就如同人類可經由四處探索理解地理全貌，學生透過不斷反覆建構、應用和詮釋知識，可深入理解知識背景與其應用情境。
+👨‍⚕️跨領域學習：PBL將不同學科知識整合，讓學生跨足多個領域，培養綜合能力。
+👨‍⚕️做與學的整合：PBL不只幫助學生在學習過程中同時學會操作，更幫助學生在操作過程中發現新的知識點。&lt;/p>
+&lt;h3 id="2-1專案導向學習-pbl">2️⃣-1專案導向學習 PBL&lt;/h3>
+&lt;p>專案導向學習（Project-Based Learning，簡稱PBL） 是一種以專案為核心的教學方法，強調學生在解決真實世界問題時的主動參與。以下是PBL的六個特色：
+👩‍⚕️驅動問題（Driving Question）：透過情境式學習，學生理解知識可被應用的情境並被引導思考並提出問題，激發他們的好奇心和求知欲。
+👩‍⚕️深入理解知識：學生不僅要掌握知識，還需反覆建構、應用和詮釋，以深入理解。
+👩‍⚕️溝通與合作：PBL強調團隊合作、溝通技巧和解決衝突的能力。
+👩‍⚕️超越當前能力：學生在專案中常需應用課堂外的知識，培養成長心態。
+👩‍⚕️學以致用：PBL鼓勵學生將所學應用於實際情境，解決現實問題。
+👩‍⚕️實際產出：專案的結果不僅是知識的累積，還包括實際成果，達成做、學合一與知識的整合。
+透過PBL，學生能夠在有趣且具挑戰性的專案中，培養批判思考、解決問題和創新的能力。&lt;/p>
+&lt;h3 id="2-2問題導向學習-pbl">2️⃣-2問題導向學習 PBL&lt;/h3>
+&lt;p>問題導向學習 (Problem-Based Learning，簡稱PBL) 是一種以問題為核心的教學方法，同樣強調學生解決真實案例時的主動參與。以下是 PBL 的幾個優點：
+🧑‍⚕️自己決定學習方向：學生在面對問題時理解到自身知識的不足，主動訂定學習方向，提升學習動機。
+🧑‍⚕️學以致用：學生在PBL過程中會需要知識的應用，未來在面對新的問題時也能活用所學。
+🧑‍⚕️同儕互動：透過同儕之間的討論，學生必須將所學的知識系統化整理後輸出，在這個系統化的過程中，之是能夠再次被建構，增進學習效果。
+🧑‍⚕️知識的形成：由於 PBL 大量使用白板，學生可以先將各種知識寫在白板上，在討論過程中不斷整理現有知識，最後形成有系統的知識後內化，讓學習更有組織。&lt;/p></description></item><item><title>練習測驗</title><link>https://ntu-learning-optimization-club.github.io/posts/practice_testing-copy/</link><pubDate>Tue, 05 Mar 2024 17:35:25 +0800</pubDate><guid>https://ntu-learning-optimization-club.github.io/posts/practice_testing-copy/</guid><description>&lt;h3 id="何謂練習測驗">何謂”練習測驗”?&lt;/h3>
+&lt;p>測驗對學生來說是一件很討厭的事情，但是這是建立在學生被迫在很高壓的環境下進行測驗。然而，“練習測驗”（Practice Testing），亦即主動回顧（Retrieval Practice, Active Recall），是在學生沒有壓力的情況下自己練習測驗。&lt;/p>
+&lt;h3 id="練習測驗的成效">練習測驗的成效&lt;/h3>
+&lt;p>先前研究中練習測驗的成果表明，練習測驗對於學習成效有著顯著的影響。例如，一項研究觀察到大學生學習字對的情況，使用Cued Recall方法進行練習測驗，10分鐘後的成績顯示，有練習測驗組的正確率為53%，而沒有練習測驗組僅為36%。同樣，一周後的測驗結果也顯示出明顯差異，有練習測驗組的正確率為35%，而沒有練習測驗組僅為4%。除了學習字對外，對於大學生閱讀測驗和字詞記憶，練習測驗也帶來了顯著的提升。&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align: left">研究&lt;/th>
+&lt;th style="text-align: left">練習測驗方法&lt;/th>
+&lt;th style="text-align: left">間格&lt;/th>
+&lt;th style="text-align: left">有練習測驗&lt;/th>
+&lt;th style="text-align: left">沒練習測驗&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align: left">大學生學習字對&lt;/td>
+&lt;td style="text-align: left">Cued Recall&lt;/td>
+&lt;td style="text-align: left">10 分鐘後&lt;/td>
+&lt;td style="text-align: left">53%&lt;/td>
+&lt;td style="text-align: left">36%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">大學生學習字對&lt;/td>
+&lt;td style="text-align: left">Cued Recall&lt;/td>
+&lt;td style="text-align: left">一周後&lt;/td>
+&lt;td style="text-align: left">35%&lt;/td>
+&lt;td style="text-align: left">4%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">大學生閱讀測驗&lt;/td>
+&lt;td style="text-align: left">Free Recall&lt;/td>
+&lt;td style="text-align: left">一周後&lt;/td>
+&lt;td style="text-align: left">56%&lt;/td>
+&lt;td style="text-align: left">42%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">字詞記憶&lt;/td>
+&lt;td style="text-align: left">Free Recall&lt;/td>
+&lt;td style="text-align: left">兩天後&lt;/td>
+&lt;td style="text-align: left">39%&lt;/td>
+&lt;td style="text-align: left">17%&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>兩種練習測驗帶來的效應在研究中也有所呈現。&lt;strong>直接效應&lt;/strong>包括嘗試提取資訊的過程會涉及在長期記憶的搜尋，這個搜尋過程會讓中間相關的記憶進行連結，方便下次的提取。例如，即使在練習測驗中沒有提取到的資訊，在後續的測驗中也有可能被影響到。而&lt;strong>間接效應&lt;/strong>則包括中間介質的編碼。&lt;/p></description></item><item><title>心流</title><link>https://ntu-learning-optimization-club.github.io/posts/flow/</link><pubDate>Fri, 05 Apr 2024 17:35:25 +0800</pubDate><guid>https://ntu-learning-optimization-club.github.io/posts/flow/</guid><description>&lt;h2 id="心流的神經科學理論">心流的神經科學理論&lt;/h2>
+&lt;h3 id="暫時性次額葉假說">暫時性次額葉假說&lt;/h3>
+&lt;p>該假說認為大腦的資源有限，所以當心流產生時，外顯功能相關的腦區例如：前額葉與內側顳葉的功&lt;/p>
+&lt;p>能會降低，而內隱功能相關的腦區例如：基底核的功能會上升。因此該假說認為心流狀態是利用內隱，讓大腦藉由已知的知識與技能進行自動化的工作，並減少推論與自省。而這個假說也有實驗的支持，一個研究團隊在受試者進入心流時利用fMRI監測大腦，發現前述的外顯功能腦區的活動下降，內隱功能的腦區活動反而上升。&lt;/p>
+&lt;h3 id="心流的同步理論">心流的同步理論&lt;/h3>
+&lt;p>該理論認為在高度專注時，前額葉會高度活化，代表心流狀態需要注意力相關的腦區網路整合同步。後續也有實驗證明心流狀態下的前額葉網路活動顯著上升。&lt;/p>
+&lt;h3 id="大尺度網路">大尺度網路&lt;/h3>
+&lt;p>此觀點認為心流狀態的產生需要透過多巴胺與正腎上腺素去調節內在動機與情緒反應，接著三個和注意力相關的大尺度大腦網路的交互作用則是關鍵。這三個大腦網路分別是:與自我察覺有關的默認模網路、與專注有關的中央執行網路、與分配大腦資源並協調大腦資源有關的顯著網路。心流狀態可能和大腦網路不斷切換有關。&lt;/p>
+&lt;p>資料來源: &lt;a href="https://pansci.asia/archives/367275">https://pansci.asia/archives/367275&lt;/a>&lt;/p>
+&lt;hr></description></item><item><title>專注力</title><link>https://ntu-learning-optimization-club.github.io/posts/focus/</link><pubDate>Fri, 05 Apr 2024 17:35:25 +0800</pubDate><guid>https://ntu-learning-optimization-club.github.io/posts/focus/</guid><description>&lt;h3 id="影響專注力的因子">影響專注力的因子&lt;/h3>
+&lt;p>有時候專注做事情時不容易被周遭影響，但有時候放鬆時又會被影響。&lt;/p>
+&lt;p>由知覺負荷理論(Perceptual Load Theory)可以解釋，其中有兩個重要的概念，認知資源以及&lt;/p>
+&lt;p>認知負荷。&lt;/p>
+&lt;p>&lt;a href="https://goldensun.get.com.tw/Psychology_blog/detail.aspx?no=908693">https://goldensun.get.com.tw/Psychology_blog/detail.aspx?no=908693&lt;/a>&lt;/p>
+&lt;p>早期選擇理論認為，注意力在早期就介入，只有被注意到的資訊，才會進到語意分析的階段。 晚期選擇理論則認為注意力是在晚期、是在語意已經處理完後才介入。 超晚期選擇理論認為，注意力是在超級晚期才介入，也就是在語意處理完，甚至都已經產生意識經驗後，注意力才會介入然後決定哪一些資訊可以被受試者回報。&lt;/p>
+&lt;h3 id="吃什麼可以提升專注">吃什麼可以提升專注？&lt;/h3>
+&lt;p>酪胺酸可刺激腦部、讓大腦清醒，色胺酸會讓大腦製造血清素，讓人產生睡意而具有安眠作用。因此，需要集中專注力時，餐點的蛋白質比例要較高，讓酪胺酸比例高過色胺酸，酪胺酸再與葉酸、鐵、菸鹼酸、維生素B6代謝，製造多巴胺、腎上腺素及正腎上腺素（多巴胺與維生素C、銅、氧作用形成），這些神經傳導物質將使得大腦機警且精神亢奮。建議早餐多準備高蛋白質，如豆類、海鮮、雞蛋等，可以讓大腦清醒，發揮最大的功用。&lt;/p>
+&lt;hr></description></item><item><title>卡片盒筆記法</title><link>https://ntu-learning-optimization-club.github.io/posts/cards/</link><pubDate>Tue, 05 Mar 2024 17:35:25 +0800</pubDate><guid>https://ntu-learning-optimization-club.github.io/posts/cards/</guid><description>&lt;p>常常覺得自己的筆記方法充滿限制嗎？
+筆記間都沒有連結？
+記了一大堆不會用到的廢話？
+都是按照時間順序，過度線性？
+那要不要試著用用看卡片盒筆記法呢！
+發明這個筆記法的人叫做盧曼，他一生寫了30幾本書，跟600多篇論文！十分多產，但究竟他是如何做到這般有效率的呢？？？
+那就來看看他所使用的卡片盒筆記法吧：
+他平常會記下當下的靈感或讀到的文獻，分別放入兩種卡片盒中：書目用卡片盒、想法卡片盒，再把卡片們建立聯繫。&lt;/p>
+&lt;p>之後要寫作、思考時，只要打開他的卡片盒，寫作就完成了！&lt;/p>
+&lt;hr></description></item><item><title>學習優化講座：竹科實中</title><link>https://ntu-learning-optimization-club.github.io/posts/highschool1/</link><pubDate>Thu, 09 May 2024 17:35:25 +0800</pubDate><guid>https://ntu-learning-optimization-club.github.io/posts/highschool1/</guid><description>&lt;img src="https://ntu-learning-optimization-club.github.io/images/452a6776-8362-4fa7-9d56-922a5d7bed8d.jpg">
+&lt;p>兩年前，我曾回到母校竹科實中，以畢業校友的身份向學弟妹們分享學習方法的經驗。而兩年後的今天，我再次站在這個熟悉的講台上，但這次是代表 NTULOC，推廣我們的研究成果。我的目標是讓學弟妹們明白，學習不僅僅是死記硬背，而是可以透過科學的方法和策略，發現其中的樂趣與美麗。&lt;/p>
+&lt;p>這次的講座內容涵蓋了學習理論、學習方法，以及影響學習成效的多種因素。學習理論探討的是人類如何將知識有效地記憶在腦海中，而這些心理學理論的應用，則需要透過具體的學習方法來實現。在掌握了理論與方法之後，如何合理安排時間、設定目標，並將高效學習最大化地融入日常生活中，成為了我們最後探討的重點。&lt;/p>
+&lt;p>在講座結束後，一位高三的學妹舉手告訴我，她兩年前曾經聽過我的演講，並且運用了當時介紹的主動式回顧方法，結果發現它對她的學習幫助極大。還有幾位學弟妹在講座後進行了主動式回顧練習，並在回饋中表示，這些方法對於他們的學習確實產生了積極的影響。&lt;/p>
+&lt;p>這場講座是 NTULOC 暑期四場演講的首站，也是我們實際推廣研究成果的第一步。踏出這一步後，我們將堅定不移地前進，從此開始改變學生們的學習觀念。&lt;/p>
+&lt;p>By 吳柏均，NTULOC&lt;/p>
+&lt;p>影片：
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/uUKqtxzOgb4?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+>&lt;/iframe>
+&lt;/div>
+&lt;/p></description></item><item><title>學習優化講座：再興高中</title><link>https://ntu-learning-optimization-club.github.io/posts/highschool2/</link><pubDate>Fri, 09 Aug 2024 17:35:25 +0800</pubDate><guid>https://ntu-learning-optimization-club.github.io/posts/highschool2/</guid><description>&lt;img src="https://ntu-learning-optimization-club.github.io/images/1723192793275.jpg">
+&lt;p>本著NTULOC學術兼服務的性質，我期待把社員努力研究的成果推廣出去，幫助母校的學弟妹們，尤其是在學習上遇到瓶頸的學測考生。
+我試著把本學期研究的精華濃縮成三十分鐘的演講，並在過程中實際帶著學弟妹用主動式回顧，幫助記憶演講內容，更深體會學習方法的奧妙之處。
+本場演講共七十多位再興高中學生參加，雖然學校安排的時間只有半小時，但超過半數的學生請公假留下來問問題，期待知道更多幫助學習的技巧。
+NTULOC一再創新，尋找不同學習方法並加以優化，過程絕非易事，但社員都願意把自己心血無私公開給所有人！&lt;/p>
+&lt;p>by 陳慕義，NTULOC&lt;/p>
+&lt;p>影片：
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/UogV6KBQwno?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+>&lt;/iframe>
+&lt;/div>
+&lt;/p></description></item><item><title>NTULOC X EdYouth 暑期合作講座回顧</title><link>https://ntu-learning-optimization-club.github.io/posts/edyouth/</link><pubDate>Sun, 11 Aug 2024 17:35:25 +0800</pubDate><guid>https://ntu-learning-optimization-club.github.io/posts/edyouth/</guid><description>&lt;p>講座主題：學習策略與讀書方法&lt;/p>
+&lt;p>參與人員：潘昱誠、鄭淳芸、許智皓、吳柏均、陳慕義&lt;/p>
+&lt;p>地點：線上Google Meet&lt;/p>
+&lt;p>時間：2024.08.11.（日） 20:00～21:30&lt;/p>
+&lt;p>動機目的：&lt;/p>
+&lt;ul>
+&lt;li>對內
+&lt;ol>
+&lt;li>增加國高中學生及老師客群之曝光度&lt;/li>
+&lt;li>找尋潛在舉辦對外講座的高中&lt;/li>
+&lt;li>吸引潛在台大生變成社員&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>對外
+&lt;ol>
+&lt;li>增進聽眾對於學習方法的認識&lt;/li>
+&lt;li>使聽眾意識到尋找適合自己學習模式的重要性&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;/ul>
+&lt;p>目標受眾：在臺念書的高中生&lt;/p>
+&lt;p>講座準備&lt;/p>
+&lt;p>本場講座籌備期約一個月，歷經招工、定題、分工、三次口頭及簡報驗收、處理行政與技術事務（組織及講師介紹、Slido、回饋表單、簡報投影共享等）。本次講座之內容來源包含過去搜集資料討論會成果、專案管理，以及講者額外自行整理與補充的資料。&lt;/p>
+&lt;img src="https://ntu-learning-optimization-club.github.io/images/IMG_2831.jpg">
+&lt;p>講座流程與摘要&lt;/p>
+&lt;p>20:00～21:00 演講&lt;/p>
+&lt;ul>
+&lt;li>開場（吳柏均）
+&lt;ul>
+&lt;li>組織與講者介紹、學習方法之引言&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>學習科學（鄭淳芸）
+&lt;ul>
+&lt;li>基礎學習理論、四個學習原則、PBLs&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>主動回顧理論（許智皓）
+&lt;ul>
+&lt;li>主動回顧原理、方法、成效、優缺、陷阱&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>時間規劃（潘昱誠）
+&lt;ul>
+&lt;li>專案管理、自我評估、Fogg行為模型&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>21:00～21:10 Slido互動&lt;/p>
+&lt;ul>
+&lt;li>主動回顧實作（鄭淳芸、許智皓）&lt;/li>
+&lt;li>收尾（鄭淳芸）&lt;/li>
+&lt;/ul>
+&lt;p>21:10～21:30 QA&lt;/p></description></item><item><title/><link>https://ntu-learning-optimization-club.github.io/activities/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ntu-learning-optimization-club.github.io/activities/</guid><description>&lt;h2 id="97-六新生講座你所不知道的大學生活">9/7 （六）新生講座—你所不知道的大學生活&lt;/h2>
+&lt;img src="https://ntu-learning-optimization-club.github.io/images/freshman.png">
+&lt;p>剛上大學的你，是不是覺得一切事物都很新鮮，卻又不確定該如何走起呢？那就快來我們舉辦的講座吧！&lt;/p>
+&lt;p>講座過程會有學長姐分享平時課業與活動、社團的時間安排與經歷，也可以聽到學長姐們是如何從課業的折磨中找到調適方法，最後也會帶大家一覽幾個著名的學習方法，提供各位大學新生們學習策略的參考！&lt;/p>
+&lt;p>不要猶豫了，趕快來參加吧！&lt;/p>
+&lt;p>講座資訊懶人包：&lt;/p>
+&lt;p>名稱：新生講座—你所不知道的大學生活&lt;/p>
+&lt;p>時間：9/7 （六）15：30~16：20&lt;/p>
+&lt;p>地點：學生第二活動中心705&lt;/p>
+&lt;p>位置可參考 &lt;a href="https://maps.app.goo.gl/D5Yb8kfcregRjnpp6">https://maps.app.goo.gl/D5Yb8kfcregRjnpp6&lt;/a>&lt;/p>
+&lt;hr></description></item><item><title>加入我們</title><link>https://ntu-learning-optimization-club.github.io/joinus/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ntu-learning-optimization-club.github.io/joinus/</guid><description>&lt;iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeuzwRyMdFH_5wdEDplBGzFMP8TCy2oG_6Hw9P5lMGwsexugQ/viewform" width="640" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…&lt;/iframe>
+&lt;hr></description></item><item><title>關於我們</title><link>https://ntu-learning-optimization-club.github.io/aboutus/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ntu-learning-optimization-club.github.io/aboutus/</guid><description>&lt;h2 id="ntuloc---unlock-your-mind-learn-and-shine">NTULOC - Unlock Your Mind, Learn and Shine.&lt;/h2>
+&lt;hr>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/akUhMOldEx0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+>&lt;/iframe>
+&lt;/div>
+&lt;h2 id="我們是誰">🙋‍♂️我們是誰？🙋‍♀️&lt;/h2>
+&lt;p>我們是一群對於學習與教育有熱忱的學生，希望透過研究學習理論、以實驗驗證，將扎實的理論轉化為靈活的學習方法，在社團內部推廣，並提升社員的實力。&lt;/p></description></item></channel></rss>
