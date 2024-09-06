@@ -36,58 +36,73 @@ draft: false
 
 ## 社團成員
 
-### 社長 - 吳柏均
+### 社長 - 康景翔
 
-<img src="/images/吳柏均.jpg" alt="image" width="300" height="auto">
+<img src="/images/康景翔.png" alt="康景翔"  height="200">
 
-如果人生是一個 8-bit 加法器，\
-花100,000單位的努力在課業\
-100,000單位在社團\
-100,000單位在跑活動\
-100,000單位在追逐夢想\
-成果會是多少？\
-0\
-因為會Overflow
+來騎腳踏車、爬山！
 
----
+### 副社長 - 吳宥瑄
 
-### 研發部長 - 吳宥瑄
+<img src="/images/吳宥瑄.jpg" alt="吳宥瑄"  height="200">
 
-<img src="/images/吳宥瑄.jpg" alt="image" width="300" height="auto">
+歡迎加入社團！！
 
-大家好！我是電機二的吳宥瑄，這學期是 NTULOC 的研發部長\
-歡迎大家多多參加蒐集資料、實驗數據採集專案！！
+### 研發部長 - 許智皓
 
----
+<img src="/images/許智皓.png" alt="許智皓"  height="200">
 
-### 研發部長 - 許庭愷
+想和大家一起努力變強
 
-<img src="/images/Ting-KaiHsu.jpg" alt="image" width="300" height="auto">
+### 研發部長 - 方俊智
 
-狄拉克的粉絲ㄧㄝ˙，喜歡看書、看電影哈哈~
+<img src="/images/方俊智.png" alt="方俊智"  height="200">
 
----
+當完兵了好爽
 
-### 研發部長 - 詹維宏
+### 行銷部長 - 潘昱誠
 
-<img src="/images/詹維宏.jpeg" alt="image" width="300" height="auto">
+<img src="/images/潘昱誠.png" alt="潘昱誠"  height="200">
 
-我是詹維宏，我什麼都不會
-
----
+我是潘潘～
 
 ### 行銷部長 - 李承彥
 
-<img src="/images/李承彥.png" alt="image" width="300" height="auto">
+<img src="/images/李承彥.png" alt="李承彥"  height="200">
 
 有時候有點白癡
 
----
+### 總務 - 陳慕義
 
-### 資訊部長 - 許智皓
+<img src="/images/陳慕義.png" alt="陳慕義"  height="200">
 
-<img src="/images/許智皓.JPG" alt="image" width="300" height="auto">
+記得繳社費嗚嗚
 
-想和大家一起努力變強
+### 社團聯展總召 - 陳璿吉
+
+<img src="/images/陳璿吉.png" alt="陳璿吉"  height="200">
+
+電機系三年級，學理論、習實作
+理工人社科腦，嗜音樂、好閱讀
+
+### 社團創始人 - 吳柏均
+
+<img src="/images/吳柏均.jpg" alt="吳柏均" height="200">
+
+如果人生是一個 8-bit 加法器，
+
+花100,000單位的努力在課業
+
+100,000單位在社團
+
+100,000單位在跑活動
+
+100,000單位在追逐夢想
+
+成果會是多少？
+
+0
+
+因為會Overflow
 
 ---
