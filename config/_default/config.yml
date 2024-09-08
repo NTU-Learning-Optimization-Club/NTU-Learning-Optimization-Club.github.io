@@ -3,6 +3,9 @@ languageCode: zh-hant
 defaultContentLanguage: zh-hant
 title: NTULOC
 theme: PaperMod
+services:
+  googleAnalytics:
+    ID: G-NEEFHZ6378
 markup:
   goldmark:
     renderer:
