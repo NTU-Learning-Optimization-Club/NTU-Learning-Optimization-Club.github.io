@@ -36,9 +36,10 @@ languages:
         - name: 活動
           url: activities/
           weight: 15
-        - name: 加入我們
-          url: joinus/
-          weight: 25
+#        - name: 加入我們
+#          url: joinus/
+#          weight: 25
+#
 params:
   defaultTheme: dark
   disableThemeToggle: true
