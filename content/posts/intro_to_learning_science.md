@@ -3,6 +3,7 @@ title: "學習科學簡介"
 date: 2024-02-05T17:35:25+08:00
 weight: 5
 draft: false
+tags: ["Basics", "Learning Science"]
 ---
 
 ## 🤔學習科學是什麼？🤔

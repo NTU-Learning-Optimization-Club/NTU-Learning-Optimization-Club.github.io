@@ -30,6 +30,9 @@ languages:
 #        - name: 分類
 #          url: posts/
 #          weight: 10
+        - name: 主題
+          url: tags/
+          weight: 10
         - name: 關於我們
           url: aboutus/
           weight: 20
