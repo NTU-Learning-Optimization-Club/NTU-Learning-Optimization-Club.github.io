@@ -1,58 +1,100 @@
 ---
-title: "Roadmap"
-date: 2025-04-29T22:37:50+08:00
+title: "有效學習全攻略"
+date: 2025-05-04T15:59:00+08:00
+weight: 70
 draft: true
 ---
 
----
-title: LOC Roadmap
-markmap:
-  colorFreezeLevel: 3
----
+# 緣起
 
-## Do right things
+# Roadmap 介紹
+<img src="/images/Roadmap.png" alt="Roadmap">
 
-### Concentration
-- Only 1 Thing
-- The 2 Minute Challenge
-- Pomodoro Technique
+# Part 1: 專注、避免拖延
+想要有效的學習，「專注」是最重要的。無論是備考還是考試本身，都需要讓自己的精神專注在眼前的任務上，才能發揮出應有的水準。環境的誘惑和心中的雜念容易導致分心，從而影響自己的信心以及成果。
 
-### Procrastination
-- No perfectionism
-- Reduce Triggers
-  - Smartphone
-  - Interruption
-  - Desktop
-  - Feeds
+為什麼專注如此重要？如果在做事的途中被打斷，大腦會需要額外耗費能量將注意力拉回，這會讓自己的表現變差。
+因此，第一步就是確保讀書時沒有任何干擾的事物。這裡提供幾個簡單的建議：
 
-## Do things right
-### Pitfalls
-- Re-reading
-- Highlighting
-### Techniques
-- Active Recall
-  - Practice Testing
-  - Question List
-  - Past exams
-- Spaced Repetition
-  - Anki
-  - Revision Timetable
-- Directly related to what is being tested
-- Work on weak points
+- 將手機放在自己看不見、拿不到的地方。
+- 儘可能關閉網路連線。
+- 如果你在自己的書桌上讀書，請保持桌面的整潔。
 
-## Do it long
-### Time management
-- Eisenhower Matrix
-  - Importance
-  - Urgency
-- 3 Most Important Task
-- Time-boxing
-- Most difficult thing first
-### Sleep
-- Consolidates memory
-- - Remove toxins
-- 7 to 9 hours per day
-- No (reduce) blue light at night
-### Study Plans
-- SMART Rule
-- Bullet Journal
+此時，你可能會問：要是自己不想要開始讀書（或是做其他正事）怎麼辦？萬事起頭難，筆者也為此問題困擾了許久，
+所以你並不孤單。這是一個心理層面的問題，你會需要給自己一股推力讓自己開始。開始之後，剩下的問題基本上
+就會迎刃而解。你可以嘗試：
+
+- 兩分鐘挑戰：要求（騙）自己，只要做這一件事情兩分鐘就好。大部分人都可以忍受這樣的不適，撐過兩分鐘之後，通常抗拒感就會慢慢減少。
+- 蕃茄鐘 (The Pomodoro Technique)：找一個計時器（不是手機的話更好），設定 15 ~ 25 分鐘的時間，在這段時間過後，可以休息 5 ~ 10 分鐘。（註：筆者寫這篇文章時，也有使用番茄鐘）
+- 聽自己喜歡的音樂：關於音樂的作用，心理學界眾說紛紜。原則上，選擇沒有歌詞的音樂比較不容易分心，筆者偏好原聲帶或古典音樂。請將此作為特效藥，謹慎使用。
+
+
+# Part 2: 有效的學習方法以及工具
+平常的你，都是怎麼準備考試的呢？我猜，你多半是在考前拿出自己的課本、筆記、參考書等，反覆閱讀，以求自己能夠記住上課的內容。大家都是這麼做的，所以你可能不會覺得有任何問題。
+
+遺憾的是，認知科學的研究告訴我們，重複閱讀 (Re-reading) 的效果並不好。
+在這裡，筆者要分享有效學習方法的兩大基石：主動式回顧 (Active Recall) 與間隔重複法 (Spaced Repetition)。
+不過，這需要一點點先備知識。
+
+### 2.1 記憶模型
+依據心理學的 Atkinson-Shiffrin 模型，人類的記憶可以分成三個部份：感官 (Sensory) 記憶、工作記憶（或稱短期記憶）以及長期記憶。當你在上課時，記憶是這樣運作的：
+
+1. 你的感官（視覺、聽覺等）會抓取你認為重要的內容（例如公式、圖片以及老師強調的重點等），將這些資訊置入工作記憶中。
+2. 如果你花時間重新思考、複習這些內容，大腦會將這些資訊放入長期記憶。
+3. 考試、寫習題的時候，這些資訊會從長期記憶移轉至短期記憶，供你使用。
+
+因此，如果你沒有在課後儘快複習所學，這些資訊會被大腦刪除，而無法進入長期記憶。
+
+### 2.2 遺忘曲線
+你還記得你小學同學的姓名嗎？我想大多數人在不翻閱畢業紀念冊的情況下，是無法記得所有人的姓名的。
+同樣的，你可能也不記得上一次考試時所考的知識以及內容。今天考完了試，可能明天你就忘記了。
+
+這不是你記憶力不好，而是大腦的自然反應。當你不使用知識或資訊時，它們會被大腦清空，確保你記住的都是你
+認為重要的資訊。
+
+十九世紀末，德國科學家 Hermann Ebbinghaus 以自己為樣本，讓自己嘗試記住一連串隨機生成的數字序列。這邊不講數據，只講結論：複習不僅可以讓你對觀念的記憶恢復，還可以延緩忘記的速率。
+
+這也就是小考、習題的功能：幫助你使用這些觀念，讓你不會忘記。
+
+### 2.3 主動式回顧 (Active Recall)
+如果各位喜歡玩遊戲，應該都會發現自己很快就能記住遊戲規則、關卡攻略或是操作技巧。
+
+主動式回顧的概念，就像玩遊戲一樣：你需要讓自己**主動**和知識、觀念互動。傳統的重複閱讀，只是被動的接收課本、參考書或是筆記的資訊，你沒有花時間去理解其中的內容和脈絡，只是仰賴短期記憶將這些內容記起來而已。
+
+該如何進行主動式回顧？原則上，只要能「**使用**」到這些知識，就算是在進行主動式回顧。以下提供幾個方法：
+1. 寫練習題、考古題等：雖然大家都不喜歡考試，但考試的確可以測試你是否能使用上課學到的概念，好的題目也會挑戰
+你融會貫通的能力。因此，在大致理解上課內容後，可以適量解練習題。
+2. 將課本蓋上，進行回想：將課本、筆記蓋上，梳理這段時間所讀到的概念，可以嘗試用紙筆進行記錄，或是口頭敘述，確保自己能掌握觀念之間的連結。   
+3. 製作問題集：對照課本、筆記上的內容，記下相關的問題。內容不僅可以包含基礎觀念，也可以將自己當作老師來出題。
+
+關於主動式回顧，Ali Abdaal 的影片使筆者獲益良多，若想更理解主動式回顧的理論和實作，可以參考以下資源：
+- [The Ultimate Guide To Studying For Exams](https://aliabdaal.com/studying/the-ultimate-guide-to-studying-for-exams/)
+- [How to Study for Exams - An Evidence-based Master Class](https://www.youtube.com/watch?v=Lt54CX9DmS4)
+- [How to Study for Exams - Evidence-based revision tips](https://www.youtube.com/watch?v=ukLnPbIffxE&list=PL7BImOT2srcGCCjBBwNvU5zaB9F30lWye&index=5&pp=iAQB)
+- [How to Study for Exams - The STic Framework for Effective Learning](https://youtu.be/k5A26Sc63F0?list=PL7BImOT2srcGCCjBBwNvU5zaB9F30lWye)
+
+### 2.4 間隔重複 (Spaced Repetition)
+知識只要不進行使用就容易遺失。主動式回顧可以幫助我們進行複習，而間隔重複就是幫我們找出複習的週期，讓我們能將
+觀念記得更久、更好。常見的間隔重複週期，原則上會按照指數成長，但有一個上限。例如：
+
+- 第 1 次複習：當日晚上
+- 第 2 次複習：隔天
+- 第 3 次複習：3 天後
+- 第 4 次複習：7 天後
+- 第 5 次複習：15 天後
+- 第 6 次複習：31 天後
+
+你可以使用一個表格來記錄這些複習的時間，就像 Ali Abdaal 在[這部影片](https://www.youtube.com/watch?v=iIyDJK_SAjs&list=PL7BImOT2srcGCCjBBwNvU5zaB9F30lWye&index=10&pp=iAQB)提到的。
+
+不過，手動記錄這些時間實在相當麻煩。這裡推薦一個名為「**Anki**」的軟體，它是一個開源的 Flashcard 軟體。
+除了 iOS 平台以外，都可以免費使用。它非常適合用來背單字，以及應付事實、觀念量多的科目。筆者自己就有用來背英文、日文、德文單字，還有心理學、化學、生物、數學公式等。
+
+關於間隔重複與 Anki 的教學，筆者會另外再寫一篇文章，有興趣的人可以參考以下內容：
+- [LeanAnki.com](https://leananki.com) 上的教學
+- [How to Study for Exams - Spaced Repetition](https://youtu.be/Z-zNHHpXoMM?list=PL7BImOT2srcGCCjBBwNvU5zaB9F30lWye)
+- [Anki Masterclass](https://www.youtube.com/watch?v=8zaKVFC9Eu4&list=PL7BImOT2srcGCCjBBwNvU5zaB9F30lWye&index=17&pp=iAQB)
+
+它雖然是一個好用的工具，但**不是**學習的全部。製作有效的 Flashcards 是有技巧的，不需要五花八門的套件，只需要
+持之以恆的嘗試和練習。筆者不建議你將課本、參考書等資料全部盲目丟到 Anki 上死記下來，那是不會有用的。
+
+# Part 3: 時間、狀態規劃以及管理
