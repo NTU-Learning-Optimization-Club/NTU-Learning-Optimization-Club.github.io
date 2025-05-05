@@ -21,24 +21,27 @@ languages:
       series: series
     menu:
       main:
+        - name: 學習攻略
+          url: posts/roadmap/roadmap
+          weight: 5
         - name: 文章
           url: archives
-          weight: 5
+          weight: 10
 #        - name: 搜尋
 #          url: search/
 #          weight: 20
 #        - name: 分類
 #          url: posts/
 #          weight: 10
-        - name: 主題
-          url: tags/
-          weight: 10
+#        - name: 主題
+#          url: tags/
+#          weight: 10
         - name: 關於我們
           url: aboutus/
           weight: 20
         - name: 活動
           url: activities/
-          weight: 15
+          weight: 10
 #        - name: 加入我們
 #          url: joinus/
 #          weight: 25
